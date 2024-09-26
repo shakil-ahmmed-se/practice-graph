@@ -1,0 +1,7 @@
+D of 1 : 0
+D of 2 : 3
+D of 3 : 5
+D of 4 : 6
+D of 5 : 8
+D of 6 : 7
+D of 7 : 10
